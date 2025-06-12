@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=DESKTOP-6H3MG14;Initial Catalog=MiBiblioteca;Integrated Security=True;TrustServerCertificate=True" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force -project MiBiblioteca
